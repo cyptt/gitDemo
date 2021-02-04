@@ -7,7 +7,8 @@ target 'demo1111' do
 
   # Pods for demo1111
    
-  pod 'AFNetworking'
+  
+  pod 'YYCache'
   target 'demo1111Tests' do
     inherit! :search_paths
     # Pods for testing
